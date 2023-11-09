@@ -36,7 +36,9 @@ I have wide experience of working as an analyst in a large IT company. Now I hol
 ```
  ### Work Experience :
 *2023-06 - Current*    - QA Engineer 
+
 *2018-01 - 2023-06* - QA Engineer / Business Analyst
+
 *2017-09 - 2018-11* - Manual QA / Analyst
 
 ### Languages :
