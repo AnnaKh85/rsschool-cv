@@ -1,6 +1,5 @@
 # rsschool-cv
 
-# rsschool-cv
  ### My full name : 
 Khizhnyakova Anna
  ### Contacts : 
