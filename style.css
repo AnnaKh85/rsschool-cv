@@ -59,3 +59,8 @@ main {
     height: 200px;
 
 }
+
+.code {
+    font-size: 0.85rem;
+    font-family: 'Source Code Pro', monospace;
+}
