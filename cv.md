@@ -55,6 +55,8 @@ I have wide experience of working as an analyst in a large IT company. Now I hol
 | Russian | Native |
 | English | C1 |
 | French | A2 |
+| Chinese | A1 |
+| German | A2 |
 
 *according to the online test at [www.efset.org](https://www.efset.org/quick-check)*
 
