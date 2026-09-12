@@ -4,6 +4,8 @@
 
 Khizhnyakova Anna
 
+![ava](img/pic.png)
+
 ### Contacts :
 
 | where to find me | Contact |
@@ -30,7 +32,7 @@ I have wide experience of working as an analyst in a large IT company. Now I hol
 
 ### Code Examples :
 
-```
+```javascript
   describe('Manage Jenkins > Verify Title', () => {
 	    it('Verify the Title of the Manage Jenkins page ', () => {
 		    cy.get('.task-link-wrapper > a[href="/manage"]').click()
@@ -60,7 +62,7 @@ I have wide experience of working as an analyst in a large IT company. Now I hol
 
 *according to the online test at [www.efset.org](https://www.efset.org/quick-check)*
 
-![Certificate](/img/1699459745401.jpg)
+![Certificate](img/1699459745401.jpg)
 
 #### Find me here
 
