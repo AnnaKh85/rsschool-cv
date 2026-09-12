@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CV of Anna Khizhnyakova, AQA Engineer">
+    <link rel="stylesheet" href="style.css">
+    <title>Anna Khizhnyakova — AQA Engineer</title>
+</head>
+<body>
+    <div class="page-wrapper">
+        <header class="header">
+            <img class="profile-photo" src="img/pic.png" alt="Anna Khizhnyakova">
+            <div><h1>Anna Khizhnyakova</h1><p class="job-title">AQA Engineer</p></div>
+        </header>
+        <nav class="navigation" aria-label="Main navigation">
+            <ul><li><a href="#about">About</a></li><li><a href="#skills">Skills</a></li><li><a href="#experience">Experience</a></li><li><a href="#education">Education</a></li><li><a href="#languages">Languages</a></li></ul>
+        </nav>
+        <main class="content">
+            <aside class="sidebar">
+                <section class="section" aria-labelledby="contacts-title">
+                    <h2 id="contacts-title">Contacts</h2>
+                    <ul class="contact-list"><li><strong>Telegram:</strong> <a href="https://t.me/Anna_Khizhnyakova">@Anna_Khizhnyakova</a></li><li><strong>Discord:</strong> Anna (@AnnaKh85)</li><li><strong>Email:</strong> <a href="mailto:anna.khizhnyakova@gmail.com">anna.khizhnyakova@gmail.com</a></li><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/anna-kh/">anna-kh</a></li></ul>
+                </section>
+                <section class="section" id="skills" aria-labelledby="skills-title">
+                    <h2 id="skills-title">Skills</h2>
+                    <ul><li>Java and JavaScript</li><li>Docker, Postman API and JMeter</li><li>Git, GitLab, GitHub Actions and Jenkins</li><li>TestNG, JUnit, Selenium, Appium</li><li>Playwright and Cypress</li><li>Agile methodologies</li></ul>
+                </section>
+            </aside>
+            <div class="main-column">
+                <section class="section" id="about" aria-labelledby="about-title"><h2 id="about-title">About Me</h2><p>I have wide experience of working as an analyst in a large IT company. Now I hold the position of a leading QA engineer. I am a highly motivated and detail-oriented QA Engineer with experience in manual and automated testing. I love learning, developing my skills and working as part of an adaptable team.</p></section>
+                <section class="section" id="experience" aria-labelledby="experience-title"><h2 id="experience-title">Work Experience</h2><ul class="timeline-list"><li><strong>June 2023 — Present</strong><br>AQA Engineer</li><li><strong>January 2018 — June 2023</strong><br>QA Engineer / Business Analyst</li><li><strong>September 2017 — November 2018</strong><br>Manual QA / Analyst</li></ul></section>
+                <section class="section" id="education" aria-labelledby="education-title"><h2 id="education-title">Education</h2><ul><li>Rolling Scopes School — Full Stack Engineering course</li><li>Professional development in software testing and test automation</li></ul></section>
+                <section class="section" aria-labelledby="code-title"><h2 id="code-title">Code Example</h2><pre><code>describe('Manage Jenkins - Verify Title', () =&gt; {
+    it('verifies the title of the Manage Jenkins page', () =&gt; {
+        cy.get('.task-link-wrapper &gt; a[href="/manage"]').click();
+        cy.get('.jenkins-app-bar__content h1')
+            .should('be.visible')
+            .and('have.text', 'Manage Jenkins');
+    });
+});</code></pre></section>
+                <section class="section" id="languages" aria-labelledby="languages-title"><h2 id="languages-title">Languages</h2><ul><li>Russian — Native</li><li>English — C1</li><li>French — A2</li><li>Chinese — A1</li><li>German — A2</li></ul><p>English level according to the <a href="https://www.efset.org/quick-check">EF SET online test</a>.</p><img class="certificate" src="img/1699459745401.jpg" alt="EF SET English certificate"></section>
+            </div>
+        </main>
+        <footer class="footer"><a href="https://github.com/annakh85">GitHub</a><span>© 2026 Anna Khizhnyakova</span><a class="rsschool-link" href="https://rs.school/" aria-label="Rolling Scopes School"><img src="https://rs.school/_next/static/media/rss-logo.c19ce1b4.svg" alt="Rolling Scopes School logo"></a></footer>
+    </div>
+</body>
+</html>
