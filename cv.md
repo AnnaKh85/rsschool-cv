@@ -60,7 +60,7 @@ I have wide experience of working as an analyst in a large IT company. Now I hol
 
 *according to the online test at [www.efset.org](https://www.efset.org/quick-check)*
 
-![Certificate](https://media.licdn.com/dms/image/sync/C5627AQGJ_LY_21d4Gg/articleshare-shrink_800/0/1699459745401?e=1700114400&v=beta&t=SgfL-7E3WE15HBCMCTZ9BW5RK9PSI3BFIyCdMaXvqKU)
+![Certificate](/img/1699459745401.jpg)
 
 #### Find me here
 
